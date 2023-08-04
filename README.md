@@ -28,7 +28,7 @@ Final results with the following visualization were colculated:
 
 * Line plot of volume versus timepoint for Capomulin treatmeant of mouse r944
 
-![Lineplot](data_images/Lineplot.png) 
+![Linechart](data_images/Linechart.png) 
 
 
 * Scatter plot of tumor volume vs mouse weight for the Capomulin treatment regimen
